@@ -1,4 +1,4 @@
 Foliage {
-	#baseUri: 'https://lukavrankovic.github.io/proba/'
+	#baseUri: 'https://lukavrankovic.github.io/proba/',
 	#blogs: []
 }
